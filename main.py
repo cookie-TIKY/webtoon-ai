@@ -25,3 +25,5 @@ def search_anime_webtoon(title: str):
 if __name__ == "__main__":
     mcp.run()
 
+from fastapi import FastAPI
+app = FastAPI() 
