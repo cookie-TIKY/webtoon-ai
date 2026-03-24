@@ -1,0 +1,13 @@
+[project]
+name = "webtoon-ai-project"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "requests",
+    "fastmcp"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
