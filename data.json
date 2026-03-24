@@ -1,1 +1,82 @@
-[]
+[
+    {
+        "title": "Solo Leveling",
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "score": 8.7,
+        "synopsis": "Ten years ago, after the 'Gate' that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as 'Hunters'.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Tower of God",
+        "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery"],
+        "score": 7.6,
+        "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "The God of High School",
+        "genres": ["Action", "Sci-Fi", "Supernatural"],
+        "score": 7.1,
+        "synopsis": "It all began as a fighting tournament to seek out the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Lookism",
+        "genres": ["Action", "Drama", "Supernatural"],
+        "score": 7.8,
+        "synopsis": "In a society where looks mean everything, Park Hyung-suk, a short, overweight, and unattractive high schooler, is bullied and abused on a daily basis. One day, he wakes up in a brand new body: tall, muscular, and handsome.",
+        "type": "ONA",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "genres": ["Action", "Fantasy"],
+        "score": 8.5,
+        "synopsis": "Since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "genres": ["Action", "Fantasy"],
+        "score": 8.6,
+        "synopsis": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Attack on Titan",
+        "genres": ["Action", "Drama", "Suspense"],
+        "score": 8.5,
+        "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Chainsaw Man",
+        "genres": ["Action", "Fantasy"],
+        "score": 8.5,
+        "synopsis": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Spy x Family",
+        "genres": ["Action", "Comedy"],
+        "score": 8.6,
+        "synopsis": "Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis.",
+        "type": "TV",
+        "status": "Finished Airing"
+    },
+    {
+        "title": "Noblesse",
+        "genres": ["Action", "Supernatural"],
+        "score": 6.8,
+        "synopsis": "For 820 years, Raizel has slept with no knowledge of mankind's advancement and scientific successes. The land which he once knew has become an unfamiliar place with new technology, attitudes, and lifestyles.",
+        "type": "TV",
+        "status": "Finished Airing"
+    }
+]
